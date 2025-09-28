@@ -1,0 +1,3 @@
+react  - server.ts(express) - routes - controller (http) - service (regra de negocio)- repository(bd) - prisma - pg
+
+utilização dos objetos é invertido 
